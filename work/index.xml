@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on H2RESAI</title>
+    <link>https://h2resai.github.io/work/</link>
+    <description>Recent content in Work on H2RESAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://h2resai.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predict the Efficiency of CO2 Trapping with Machine Learning Models</title>
+      <link>https://h2resai.github.io/work/predict-co2-trapping/</link>
+      <pubDate>Mon, 14 Feb 2022 12:33:46 +1000</pubDate>
+      
+      <guid>https://h2resai.github.io/work/predict-co2-trapping/</guid>
+      <description>The goal of this project is to predict the efficiency of CO2 trapping with #machinelearning. To evaluate the efficiency of CO2 trapping performance, we need to estimate the Residual Trapping Index (RTI) and Solubility Trapping Index (STI).
+Using the flowchart on slide #2, we extract petrophysical properties from multiple real field data to get the input and output. Then, we found that the #randomforest algorithm gives us a robust model.</description>
+    </item>
+    
+  </channel>
+</rss>
