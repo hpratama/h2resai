@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on H2RESAI</title>
-    <link>https://h2resai.github.io/</link>
+    <link>https://h2resai.netlify.app/</link>
     <description>Recent content in Home on H2RESAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://h2resai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://h2resai.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analysis</title>
-      <link>https://h2resai.github.io/services/data-analysis/</link>
+      <link>https://h2resai.netlify.app/services/data-analysis/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/data-analysis/</guid>
+      <guid>https://h2resai.netlify.app/services/data-analysis/</guid>
       <description>Data analysis from geological field model for CO2 EOR, improve oil production scenarios.</description>
     </item>
     
     <item>
       <title>Predict the Efficiency of CO2 Trapping with Machine Learning Models</title>
-      <link>https://h2resai.github.io/work/predict-co2-trapping/</link>
+      <link>https://h2resai.netlify.app/work/predict-co2-trapping/</link>
       <pubDate>Mon, 14 Feb 2022 12:33:46 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/work/predict-co2-trapping/</guid>
+      <guid>https://h2resai.netlify.app/work/predict-co2-trapping/</guid>
       <description>The goal of this project is to predict the efficiency of CO2 trapping with #machinelearning. To evaluate the efficiency of CO2 trapping performance, we need to estimate the Residual Trapping Index (RTI) and Solubility Trapping Index (STI).
 Using the flowchart on slide #2, we extract petrophysical properties from multiple real field data to get the input and output. Then, we found that the #randomforest algorithm gives us a robust model.</description>
     </item>
     
     <item>
       <title>History Macthing</title>
-      <link>https://h2resai.github.io/services/history-matching/</link>
+      <link>https://h2resai.netlify.app/services/history-matching/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/history-matching/</guid>
+      <guid>https://h2resai.netlify.app/services/history-matching/</guid>
       <description>History matching based AI models.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://h2resai.github.io/about/</link>
+      <link>https://h2resai.netlify.app/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/about/</guid>
+      <guid>https://h2resai.netlify.app/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Preparation</title>
-      <link>https://h2resai.github.io/services/data-preparation/</link>
+      <link>https://h2resai.netlify.app/services/data-preparation/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/data-preparation/</guid>
+      <guid>https://h2resai.netlify.app/services/data-preparation/</guid>
       <description>Data preparation for reservoir simulation AI model.</description>
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>https://h2resai.github.io/services/software-development/</link>
+      <link>https://h2resai.netlify.app/services/software-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/software-development/</guid>
+      <guid>https://h2resai.netlify.app/services/software-development/</guid>
       <description>We help to develop inhouse software for your every needs.</description>
     </item>
     
     <item>
       <title>Forcasting</title>
-      <link>https://h2resai.github.io/services/forecasting/</link>
+      <link>https://h2resai.netlify.app/services/forecasting/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/forecasting/</guid>
+      <guid>https://h2resai.netlify.app/services/forecasting/</guid>
       <description>Deep learning for oil production forecast.</description>
     </item>
     
     <item>
       <title>Smart Tools</title>
-      <link>https://h2resai.github.io/services/smart-tools/</link>
+      <link>https://h2resai.netlify.app/services/smart-tools/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://h2resai.github.io/services/smart-tools/</guid>
+      <guid>https://h2resai.netlify.app/services/smart-tools/</guid>
       <description>Building the smart tools for CCUS projects.</description>
     </item>
     
